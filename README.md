@@ -1,1 +1,3 @@
 # AdventureWorksDataAnalysis
+Developed a comprehensive data platform utilizing Azure tools. Ingested data from on-premise SQL Server using Azure Data Factory and stored it in Azure Data Lake Storage Gen2. Transformed raw data into a clean format with Azure Databricks, then loaded the processed data into Azure Synapse Analytics. Created an interactive dashboard in Power BI integrated with Synapse. Ensured monitoring and governance using Azure Active Directory (AAD) and Azure Key Vault.
+Technology Used: Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, Azure Synapse Analytics, Azure Key Vault, Azure Active Directory (AAD), Microsoft Power BI.
